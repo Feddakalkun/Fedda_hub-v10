@@ -1,0 +1,10 @@
+FeddaHUB/
+logs/
+.git_backup_feddakalkun/
+feddakalkun/FeddaHUB/
+feddakalkun/logs/
+feddakalkun/frontend/node_modules/
+feddakalkun/frontend/dist/
+feddakalkun/frontend/.env
+feddakalkun/frontend/.env.local
+feddakalkun/backend/node_modules/
